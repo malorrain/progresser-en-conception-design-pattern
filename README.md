@@ -9,4 +9,4 @@ Dans ce talk, on sortira notre IDE et pour te montrer ceux qu’on utilise le pl
 ## CFP du MIXIT 2023
 [Spring Boot 2.6.x](https://mixitconf.org/2023/progresser-en-conception-avec-les-design-patterns)
 
-**Owners: Benjamin Yvernault/Mathilde Lorrain**
+**Owners: Benjamin Yvernault - Mathilde Lorrain**
