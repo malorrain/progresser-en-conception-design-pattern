@@ -7,4 +7,4 @@ Même si rien ne remplace l’expérience, maîtriser les Design Patterns usuels
 Dans ce talk, on sortira notre IDE et pour te montrer ceux qu’on utilise le plus au quotidien dans nos codebases respectives, pour que tu puisses te les approprier et gagner en level.
 
 ## CFP du MIXIT 2023
-[Spring Boot 2.6.x](https://docs.spring.io/spring-boot/docs/2.6.x/reference/htmlsingle/)
+[Spring Boot 2.6.x](https://mixitconf.org/2023/progresser-en-conception-avec-les-design-patterns)
