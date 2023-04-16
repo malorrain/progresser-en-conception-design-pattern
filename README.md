@@ -7,6 +7,7 @@ Même si rien ne remplace l’expérience, maîtriser les Design Patterns usuels
 Dans ce talk, on sortira notre IDE et pour te montrer ceux qu’on utilise le plus au quotidien dans nos codebases respectives, pour que tu puisses te les approprier et gagner en level.
 
 ## CFP
-[Mixit 2023](https://mixitconf.org/2023/progresser-en-conception-avec-les-design-patterns)
+[Slides - Mixit 2023](https://github.com/malorrain/progresser-en-conception-design-pattern/blob/main/Progresser%20en%20conception%20avec%20les%20design%20pattern.pdf)
+[CFP - Mixit 2023](https://mixitconf.org/2023/progresser-en-conception-avec-les-design-patterns)
 
 **Owners: Benjamin Yvernault - Mathilde Lorrain**
