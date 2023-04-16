@@ -6,7 +6,7 @@ Les Design patterns, c’est probablement ton deuxième pire souvenir de cours d
 Même si rien ne remplace l’expérience, maîtriser les Design Patterns usuels est LE meilleur moyen de progresser très vite en conception.
 Dans ce talk, on sortira notre IDE et pour te montrer ceux qu’on utilise le plus au quotidien dans nos codebases respectives, pour que tu puisses te les approprier et gagner en level.
 
-## CFP du MIXIT 2023
-[Spring Boot 2.6.x](https://mixitconf.org/2023/progresser-en-conception-avec-les-design-patterns)
+## CFP
+[Mixit 2023](https://mixitconf.org/2023/progresser-en-conception-avec-les-design-patterns)
 
 **Owners: Benjamin Yvernault - Mathilde Lorrain**
